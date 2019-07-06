@@ -1,0 +1,15 @@
+{
+    "required_api_version": "^2.0.0",
+    "name": "Netstat",
+    "description": "kill by port",
+    "developer_name": "cyuan",
+    "icon": "images/icon.png",
+    "preferences": [
+        {
+            "id": "netstat",
+            "type": "keyword",
+            "name": "Process Murderer",
+            "default_value": "net"
+        }
+    ]
+}
