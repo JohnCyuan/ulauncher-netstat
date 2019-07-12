@@ -1,6 +1,6 @@
 {
     "required_api_version": "^2.0.0",
-    "name": "Netstat",
+    "name": "KillByPort",
     "description": "kill pid by port",
     "developer_name": "cyuan",
     "icon": "images/icon.png",
@@ -8,7 +8,7 @@
         {
             "id": "netstat",
             "type": "keyword",
-            "name": "netstat port and kill pid by port",
+            "name": "port",
             "default_value": "net"
         }
     ]
